@@ -31,7 +31,7 @@ public class Hello {
 		   System.out.println(j);
 	   }
 	   
-	   int a = 0;
+	   int a = 4;
    }
 
 }
