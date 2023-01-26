@@ -31,7 +31,11 @@ public class Hello {
 		   System.out.println(j);
 	   }
 	   
+
 	   int a = 4;
+
+	   int b = 7;
+
    }
 
 }
