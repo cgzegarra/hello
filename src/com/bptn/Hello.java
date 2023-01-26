@@ -30,6 +30,8 @@ public class Hello {
 		   
 		   System.out.println(j);
 	   }
+	   
+	   int b = 7;
    }
 
 }
